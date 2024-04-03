@@ -34,5 +34,17 @@ export default [
         title: "Jane Seymour",
         description: "Jane Seymour was Queen of England as the third wife of King Henry VIII from their marriage on 30 May 1536 until her death the next year.",
         image: "https://historyuk.s3.eu-west-2.amazonaws.com/s3fs-public/2023-11/Jane%20Seymour.jpg?VersionId=c5QnDLUyjiWANImKs5RHL4IM4JiF.Ob9"
+    },
+    {
+        id: "7",
+        title: "Anne Boleyn",
+        description: "Anne Boleyn was Queen of England from 1533 to 1536, as the second wife of King Henry VIII.",
+        image: "https://upload.wikimedia.org/wikipedia/commons/0/03/AnneBoleynHever.jpg"
+    },
+    {
+        id: "8",
+        title: "Marie Antoinette",
+        description: "Marie Antoinette was the last queen of France prior to the French Revolution.",
+        image: "https://media.gettyimages.com/id/1473558305/vector/portrait-of-marie-antoinette-queen-of-france-after-%C3%A9lisabeth-vig%C3%A9e-lebrun.jpg?s=612x612&w=gi&k=20&c=toypakou6YIteisSv1PC7WEdFMYjxHGzUlMW-rPiHT8="
     }
 ]
